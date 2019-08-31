@@ -1,4 +1,5 @@
-anim-studios-tools - A suite of tools that formed part of the pipeline for an animated motion picture.
+
+# anim-studios-tools - A suite of tools that formed part of the pipeline for an animated motion picture.
 
 Probe - a collection of useful utilities for debugging and profiling python modules.
 
